@@ -1,0 +1,2 @@
+C:\Users\h4xor\Documents\Unity\CurveShot\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\h4xor\Documents\Unity\CurveShot\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

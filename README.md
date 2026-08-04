@@ -5,23 +5,23 @@
 ![Language](https://img.shields.io/badge/C%23-Programming-blue)
 ![Pipeline](https://img.shields.io/badge/Render%20Pipeline-URP-orange)
 
-A hyper-casual mini golf game developed using **Unity 6** for **Android**.
+A physics-based **hyper-casual mini golf game** developed using **Unity 6** for **Android**.
 
-CurveShot is a physics-based mini golf experience where players drag, aim, and release the golf ball to curve it around obstacles and reach the hole. The project focuses on intuitive touch controls, realistic physics, mobile optimization, and clean UI design.
+CurveShot challenges players to drag, aim, and release the golf ball while controlling its direction and power to navigate obstacles and reach the hole. The project focuses on mobile gameplay, realistic physics, intuitive controls, and clean UI design.
 
 ---
 
 # 🎮 Gameplay
 
-The objective is simple but challenging:
+The objective is simple but engaging:
 
-- Drag to aim the golf ball.
-- Adjust the shot power.
-- Release to launch the ball.
-- Curve around obstacles.
-- Reach the hole using the fewest shots possible.
+- 🎯 Drag to aim the golf ball.
+- 💪 Adjust the shot power.
+- 🚀 Release to launch the ball.
+- 🌀 Curve around obstacles.
+- ⛳ Reach the hole to complete the level.
 
-The game is designed around satisfying physics and precision-based gameplay.
+The game emphasizes precision, timing, and satisfying physics-based gameplay.
 
 ---
 
@@ -53,21 +53,17 @@ The game is designed around satisfying physics and precision-based gameplay.
 # 📸 Screenshots
 
 <p align="center">
-    <img src="Screenshots/Menu.jpeg" width="45%">
-    <img src="Screenshots/game.jpeg" width="45%">
+  <img src="Screenshots/Menu.jpeg" width="45%" alt="Main Menu">
+  <img src="Screenshots/game.jpeg" width="45%" alt="Gameplay">
 </p>
 
 ---
 
 # 🎥 Gameplay Video
 
-Gameplay demonstration:
+Watch the gameplay demonstration here:
 
-> *(Upload the gameplay video to YouTube or Google Drive and paste the link below.)*
-
-```
-https://your-video-link-here
-```
+▶️ https://drive.google.com/file/d/1lc8FCdkJ8EAFvA9BaG4q9Md5GiZBenBk/view?usp=sharing
 
 ---
 
@@ -77,7 +73,7 @@ https://your-video-link-here
 - C#
 - Universal Render Pipeline (URP)
 - Unity Physics
-- Unity UI Toolkit / Canvas
+- Unity UI System
 - Android Build Support
 
 ---
@@ -127,19 +123,19 @@ Open the project using:
 Unity 6 (6000.4.7f1)
 ```
 
-Open the scene:
+Open the main scene:
 
 ```
 Assets/Scenes/MainScene
 ```
 
-Click **Play** inside the Unity Editor.
+Click **Play** inside the Unity Editor to test the game.
 
 ---
 
-# 📦 Android Build
+# 📦 Building for Android
 
-To build the APK:
+To generate the APK:
 
 ```
 File
@@ -148,7 +144,7 @@ File
 → Build
 ```
 
-Install the generated APK on an Android device to play.
+Install the generated APK on an Android device and enjoy the game.
 
 ---
 
@@ -160,21 +156,22 @@ Install the generated APK on an Android device to play.
 - Rigidbody physics
 - Collision detection
 - Hole trigger detection
-- UI navigation
+- Mobile touch controls
+- Main Menu UI
 - Scene Management
 - Android deployment
-- Mobile touch controls
 
 ---
 
 # 📚 What I Learned
 
-Through this project I gained experience with:
+This project helped me improve my skills in:
 
 - Unity mobile game development
 - Rigidbody physics
 - Touch input handling
-- UI design
+- Physics-based gameplay programming
+- Mobile UI design
 - Scene management
 - Android deployment
 - Mobile optimization
@@ -185,7 +182,7 @@ Through this project I gained experience with:
 
 # 📈 Future Improvements
 
-- 🎮 More levels
+- 🎮 More challenging levels
 - 🏆 Score system
 - 📊 Shot counter
 - ⏱ Timer mode
@@ -216,7 +213,7 @@ README.md
 
 ## Asheed Eliyangod
 
-Game Developer passionate about creating interactive gameplay experiences using Unity and Unreal Engine.
+Game Developer passionate about creating immersive gameplay experiences using **Unity** and **Unreal Engine**.
 
 ### GitHub
 
@@ -226,7 +223,7 @@ https://github.com/AsheedEliyangod
 
 # 📄 License
 
-This project was created for educational purposes as part of a Unity game development assignment.
+This project was developed for educational purposes as part of a Unity game development assignment.
 
 Feel free to explore the project and provide feedback.
 
@@ -242,12 +239,16 @@ Feel free to explore the project and provide feedback.
 
 # ⭐ Support
 
-If you enjoyed this project, consider giving it a ⭐ on GitHub.
+If you enjoyed this project, consider giving the repository a **⭐ Star**.
 
-It helps support my work and motivates me to build more games.
+It motivates me to continue building and sharing more game development projects.
 
 ---
 
-## Thank You for Visiting!
+# 🚀 More Projects Coming Soon
 
-More Unity and Unreal Engine projects coming soon 🚀
+I'm continuously learning and building new projects in **Unity** and **Unreal Engine**. Stay tuned for more!
+
+---
+
+## Thank You for Visiting! ❤️
